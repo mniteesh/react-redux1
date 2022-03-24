@@ -1,2 +1,2 @@
-# react-redux1
+# redux-test1
 Created with CodeSandbox
